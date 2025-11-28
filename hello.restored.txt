@@ -1,2 +1,2 @@
 hello securecloud 헬로월드 
-DualCrypt 조는 AES 및 RSA 암호화 기술을 활용한 보안 파일 저장 서비스 구현을 목표로 합니다.
+`ualCrypt 조는 AES 및 RSA 암호화 기술을 활용한 보안 파일 저장 서비스 구현을 목표로 합니다.
